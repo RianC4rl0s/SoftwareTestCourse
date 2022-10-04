@@ -10,5 +10,7 @@
     <orderEntry type="library" name="junit.jupiter" level="application" />
     <orderEntry type="library" name="assertj.core" level="application" />
     <orderEntry type="library" name="net.jqwik" level="project" />
+    <orderEntry type="library" name="mockito.core" level="project" />
+    <orderEntry type="library" name="hsqldb" level="application" />
   </component>
 </module>
