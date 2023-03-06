@@ -12,5 +12,9 @@
     <orderEntry type="library" name="net.jqwik" level="project" />
     <orderEntry type="library" name="mockito.core" level="project" />
     <orderEntry type="library" name="hsqldb" level="application" />
+    <orderEntry type="library" name="apache.commons.text" level="application" />
+    <orderEntry type="library" name="seleniumhq.selenium.api" level="application" />
+    <orderEntry type="library" name="seleniumhq.selenium.chrome.driver" level="application" />
+    <orderEntry type="library" name="seleniumhq.selenium.java" level="application" />
   </component>
 </module>
